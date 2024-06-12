@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: 0;
 }
+body{
+    background: #fff;
+    color: red;
+    font-weight: bold;
+}
